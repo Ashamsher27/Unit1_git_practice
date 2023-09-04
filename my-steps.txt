@@ -2,13 +2,10 @@
 /Users/AyeshaShamsher
 
 ### Step 2B
-/Users/AyeshaShamsher
-AyeshaShamsher@MacBooks-MacBook-Pro-2 ~ % cd Desktop
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Desktop % 
-
+% cd Desktop
 
 ### Step 2C
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Desktop % cd "unit 1-git-practice"
+% cd "unit 1-git-practice"
 
 
 ### Step 2D
@@ -16,7 +13,7 @@ AyeshaShamsher@MacBooks-MacBook-Pro-2 Desktop % cd "unit 1-git-practice"
 
 
 ### Step 2E
-AyeshaShamsher@MacBooks-MacBook-Pro-2 unit 1-git-practice % ls
+% ls
 
 
 ### Step 2F
@@ -24,12 +21,10 @@ my-steps.txt
 
 
 ### Step 2G
-AyeshaShamsher@MacBooks-MacBook-Pro-2 unit 1-git-practice % cd ..
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Desktop % cd ..
-AyeshaShamsher@MacBooks-MacBook-Pro-2 ~ % cd ..
-AyeshaShamsher@MacBooks-MacBook-Pro-2 /Users % cd ..
-AyeshaShamsher@MacBooks-MacBook-Pro-2 / % 
-
+% cd ..
+% cd ..
+% cd ..
+% cd .. 
 
 ### Step 2H
 /
@@ -43,82 +38,73 @@ AyeshaShamsher@MacBooks-MacBook-Pro-2 / %
 
 
 ### Step 2J
-AyeshaShamsher@MacBooks-MacBook-Pro-2 / % cd ~
+% cd ~
 
 
 ### Step 2K
-AyeshaShamsher@MacBooks-MacBook-Pro-2 ~ % ls 
-Applications		Documents		Movies			Public
-Creative Cloud Files	Downloads		Music
-Desktop			Library			Pictures
-AyeshaShamsher@MacBooks-MacBook-Pro-2 ~ % cd desktop/
-AyeshaShamsher@MacBooks-MacBook-Pro-2 desktop % ls
-FarmingtonPresentations		MausII				The Jackbox Party Pack 4.app
-Feedforward-Chart.png		Slides				Unit 1-git-practice
-GrandCircus			Stardew Valley.app
-AyeshaShamsher@MacBooks-MacBook-Pro-2 desktop % cd "Unit 1-git-practice/"
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Unit 1-git-practice % 
+% ls 
+% cd desktop/
+% ls
+% cd "Unit 1-git-practice/"
 
 
 ### Step 3A
-/Users/AyeshaShamsher/desktop/Unit 1-git-practice
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Unit 1-git-practice % mkdir veggies
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Unit 1-git-practice % mkdir meats
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Unit 1-git-practice % mkdir desserts
+% mkdir veggies
+% mkdir meats
+% mkdir desserts
 
 ### Step 3B
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Unit 1-git-practice % mv desserts sweets 
+% mv desserts sweets 
 
 ### Step 3C
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Unit 1-git-practice % mkdir proteins
+% mkdir proteins
 
 ### Step 3D
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Unit 1-git-practice % mv meats proteins
+% mv meats proteins
 
 ### Step 3E
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Unit 1-git-practice % cd veggies
-AyeshaShamsher@MacBooks-MacBook-Pro-2 veggies % pwd
-/Users/AyeshaShamsher/desktop/Unit 1-git-practice/veggies
-AyeshaShamsher@MacBooks-MacBook-Pro-2 veggies % touch carrot.txt
-AyeshaShamsher@MacBooks-MacBook-Pro-2 veggies % touch peas.txt 
+% cd veggies
+% pwd
+% touch carrot.txt
+% touch peas.txt 
 
 
 ### Step 3F
-AyeshaShamsher@MacBooks-MacBook-Pro-2 veggies % cd ..
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Unit 1-git-practice % cd sweets
-AyeshaShamsher@MacBooks-MacBook-Pro-2 sweets % touch cookie.txt 
+% cd ..
+% cd sweets
+% touch cookie.txt 
 
 ### Step 3G
-AyeshaShamsher@MacBooks-MacBook-Pro-2 sweets % mv cookie.txt donut.txt
+% mv cookie.txt donut.txt
 
 ### Step 3H
-AyeshaShamsher@MacBooks-MacBook-Pro-2 sweets % cd ..
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Unit 1-git-practice % touch thing.txt
+% cd ..
+% touch thing.txt
 
 ### Step 3I
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Unit 1-git-practice % cp thing.txt tofu.txt
+% cp thing.txt tofu.txt
 
 ### Step 3J
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Unit 1-git-practice % mv tofu.txt proteins
+% mv tofu.txt proteins
 
 
 ### Step 3K
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Unit 1-git-practice % cp thing.txt crab.txt
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Unit 1-git-practice % mv crab.txt proteins
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Unit 1-git-practice % cd proteins
-AyeshaShamsher@MacBooks-MacBook-Pro-2 proteins % mv crab.txt meats
+% cp thing.txt crab.txt
+% mv crab.txt proteins
+% cd proteins
+% mv crab.txt meats
 
 
 ### Step 3L
-AyeshaShamsher@MacBooks-MacBook-Pro-2 proteins % cd ..
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Unit 1-git-practice % rm thing.txt
+% cd ..
+% rm thing.txt
 
 ### Step 3M
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Unit 1-git-practice % cp -r veggies plants
+% cp -r veggies plants
 
 ### Step 3N
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Unit 1-git-practice % mkdir drinks 
-AyeshaShamsher@MacBooks-MacBook-Pro-2 Unit 1-git-practice % rm -r drinks
+% mkdir drinks 
+% rm -r drinks
 
 
 ### Step 4
@@ -170,6 +156,27 @@ AyeshaShamsher@MacBooks-MacBook-Pro-2 Unit 1-git-practice %
 
 
 ### Step 6
+% touch menu.txt
+% ls
+menu.txt	plants		sweets
+my-steps.txt	proteins	veggies
+% git status
+% git add . 
+% git commit -m "Starting a menu" 
+[main d1f4f91] Starting a menu
+ 2 files changed, 41 insertions(+)
+ create mode 100644 menu.txt
+% git push
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 1.18 KiB | 1.18 MiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/Ashamsher27/Unit1_git_practice.git
+   e8266fc..d1f4f91  main -> main
+
 
 
 ### Step 7
